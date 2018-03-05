@@ -1,3 +1,10 @@
+Students: Adrian Popescu, Craig Butler, Chris Bywaletz
+
+This project was done in 
+its entirety by Craig, Adrian, and Chris. We hereby state that we have not received unauthorized help of any form
+
+
+
 Run the following command from the directory containing the readme to compile everything.
 
 ----------------------------------------------------------------------------------------
